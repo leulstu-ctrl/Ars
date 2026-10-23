@@ -1,0 +1,6 @@
+{
+  "name": "Aether — Guided Meditation & Soundscape Studio",
+  "description": "Custom guided meditation studio with Gemini 3.8 Flash TTS voiceovers, 1K/2K/4K generative visuals, layered ambient soundscapes, and a multi-turn mindfulness coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
